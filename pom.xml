@@ -10,7 +10,7 @@
 
     <properties>
         <encoding>UTF-8</encoding>
-        <spring>4.3.10.RELEASE</spring>
+        <spring>5.2.20.RELEASE</spring>
         <jetty>9.4.6.v20170531</jetty>
         <java>8</java>
         <maven>3.8.1</maven>
